@@ -1,3 +1,4 @@
+import { VM } from "./vm/vm.js"
 var display = document.getElementById("display")
 var vm = new VM(document.getElementById("vm"))
 

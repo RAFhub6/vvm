@@ -94,3 +94,4 @@ folder.splice(carIndex, 1)
     //
   }
 }
+export { VM };
